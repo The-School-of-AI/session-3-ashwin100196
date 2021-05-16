@@ -133,4 +133,4 @@ Functions for rounding, truncation and rounding away from zero have been impleme
 ### Test Case Results
 
 The test cases have all passed as shown below.
-![TestCases](/test_cases_results.png)
+![Test cases](/test_cases_results.PNG)
